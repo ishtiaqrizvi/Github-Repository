@@ -1,0 +1,5 @@
+C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\classes\release
+C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-15bff1f4691a35bf3333774181d7f5fb47e044e5.jar
+C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\YouTubeAndroidPlayerApi-4ff4f08d5ccbe0603ea316350f6bcdbe44ee0963.jar
+C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-8cba6607965179af46005cb3e4983b4793d1ab0d.jar
+C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\classes-51ca3928f012429a716f37c9e1119523c7ac49f4.jar

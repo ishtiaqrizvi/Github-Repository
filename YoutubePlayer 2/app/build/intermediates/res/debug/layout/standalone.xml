@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/youtube">
+    
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Play my fav. video"
+        android:textColor="#0000FF"
+        />
+    
+    <Button
+        android:id="@+id/btnPlaylist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:layout_marginTop="30dp"
+        android:text="Play my fav. playlist"
+        android:textColor="#008000"
+        />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Ishtiaq/Desktop/Udemy/INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2/YoutubePlayer%202/app/src/main/res/layout/standalone.xml -->

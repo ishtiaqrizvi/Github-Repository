@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\YouTubeAndroidPlayerApi-4ff4f08d5ccbe0603ea316350f6bcdbe44ee0963.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-8cba6607965179af46005cb3e4983b4793d1ab0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\classes-51ca3928f012429a716f37c9e1119523c7ac49f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ishtiaq\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ishtiaq\Desktop\Udemy\INFSCI2730_Spring2015_EBusiness_Assignment2_Android_IshtiaqRizvi_ihr2\YoutubePlayer 2\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-15bff1f4691a35bf3333774181d7f5fb47e044e5.jar" />
+    </item>
+
+</items>

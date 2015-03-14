@@ -1,0 +1,38 @@
+/* 
+    Created on : 29 Jan, 2015, 2:20:15 AM
+    Author     : Ishtiaq
+*/
+
+.spacer{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.wrapper1{
+    margin-top:20px;
+    padding: 10px;
+    margin:auto;
+}
+
+.spacer1{
+    width: 200px;
+    height: auto;
+    border: 1px solid #e4e4e4;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+ h3 {
+    margin-left:400px;
+    font-weight:bold;
+            }
+
+.container {
+    background-image:url("book.jpg");
+    width:100%;
+    background-repeat:no-repeat;
+    height:720px;    
+            }
+            
+#details {
+    color:Navy;
+         }

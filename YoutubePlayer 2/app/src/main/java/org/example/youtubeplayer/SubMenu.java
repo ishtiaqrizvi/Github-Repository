@@ -9,11 +9,11 @@ import com.google.android.youtube.player.YouTubeStandalonePlayer;
 //the SubMenu doesn't extend the youtubebaseactivity
 public class SubMenu extends Activity implements View.OnClickListener {
 
-	public static final String GOOGLE_API_KEY = "AIzaSyArdTDNI-84WJIdEDhvym0MRJAXFIBxgxs";
+	public static final String GOOGLE_API_KEY = "AIzaSyArdTDI-8WJIdEDhvym0MRxgxs";  //replace API key with yours
     //this is the same video ID I have used in YoutubeActivity
-	public static final String YOUTUBE_VIDEO_ID = "OMqN6zKSnls";
+	public static final String YOUTUBE_VIDEO_ID = ""; //add video ID here
     //Youtube playlist ID is the unique identifier for a playlist on youtube. You can get the ID from any of its video's URL. In the URL it comes as list="Playlist ID"
-	public static final String YOUTUBE_PLAYLIST_ID = "PLCB0DD71DD57D7DAB";
+	public static final String YOUTUBE_PLAYLIST_ID = "";  //add playlist ID here
 
 	private Button btnPlayfav;
 	private Button btnPlayfavPlaylist;

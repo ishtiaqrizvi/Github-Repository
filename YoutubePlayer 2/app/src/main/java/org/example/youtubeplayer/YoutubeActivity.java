@@ -14,9 +14,9 @@ import android.widget.Toast;
 
 public class YoutubeActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
 	//this is where you have to replace my API KEY with yours
-	public static final String GOOGLE_API_KEY = "AIzaSyArdTDNI-84WJIdEDhvym0MRJAXFIBxgxs";
+	public static final String GOOGLE_API_KEY = "AIzaSyArdTDI-WJIdEDhvym0MRJAs"; //replace this API key with yours 
 	//Youtube video ID is the unique identifier for a video on youtube. You can get the ID from the video URL. In the URL it comes as v="Video ID"
-	public static final String YOUTUBE_VIDEO_ID = "OMqN6zKSnls";
+	public static final String YOUTUBE_VIDEO_ID = "";   //Add video ID here
 	
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
